@@ -1,0 +1,9 @@
+[submodule "external/objectiveflickr"]
+	path = external/objectiveflickr
+	url = git://github.com/lukhnos/objectiveflickr.git
+[submodule "external/gh-unit"]
+	path = external/gh-unit
+	url = git://github.com/gabriel/gh-unit.git
+[submodule "external/fringe-tools"]
+	path = external/fringe-tools
+	url = git@github.com:jsheets/fringe-tools.git

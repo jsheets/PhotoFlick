@@ -1,0 +1,14 @@
+1.0.2
+
+* Fixed image loading issue on iOS 4
+* Added support for iOS 4 multitasking
+* Improved image search for custom sites
+* Now tested on iOS 4.2
+
+1.0.1
+
+* Search Flickr by keyword or username
+* Support Landscape
+* Fixed crash when immediately re-running a search
+* Fixed older photos showing up in new searches
+* Fixed freeze after rotate

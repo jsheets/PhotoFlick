@@ -1,0 +1,16 @@
+PhotoFlick is a unique image-viewing application that runs photo slideshows from your favorite web sites and photoblogs.  Sit back and watch as amazing images scroll past, or take control and flip through photos at your own pace.  
+
+PhotoFlick comes with built-in support for the Flickr public photo stream; watch the very latest photographs uploaded to Flickr from around the world!  Or target your searches by Flickr username or keyword.  Like dogs, cats, or the ocean?  Type it into the keyword field and enjoy the show.  Want to watch a friend's recent vacation pictures on their public Flickr stream?  Type their Flickr username into the username field.
+
+With a single tap, you can watch a slideshow of favorite pictures posted at ffffound.com by designers, web-o-philes, and the digerati.
+
+Have a favorite photoblog?  Tap on “Search http://“ to run a slideshow of photos from any web site.  PhotoFlick will scan the page for images, and will even follow Next links to find more images from the site’s archives.  This works with many popular photoblogs such as peopleofwalmart.com, awkwardfamilyphotos.com, dogatar.com, and engrishfunny.com.  (If you run across any photoblogs that fail to load, please let us know with a quick note to our support email address and we'll do our best to get them working for you.)
+
+This is just the beginning.  We have many exciting features planned for the near future, including:
+
+* Facebook slideshows
+* Bookmarking favorites
+* Twitter posting
+* Sharing photos and slideshows
+
+An iPhone version is also in the works and will be a free upgrade for all iPad users.

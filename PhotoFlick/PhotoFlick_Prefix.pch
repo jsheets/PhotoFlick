@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'PhotoFlick' target in the 'PhotoFlick' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <CoreData/CoreData.h>
+
+    #import "Analytics.h"
+    #import <FringeTools/FFTAnalytics.h>
+#endif

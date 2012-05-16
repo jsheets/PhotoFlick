@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>html</key>
+	<dict>
+		<key>nextPageXpath</key>
+		<string>//a[starts-with(translate(., &apos;NEXT&apos;, &apos;next&apos;), &apos;next&apos;) or contains(., &apos;Older Posts&apos;) or contains(., &apos;Older Entries&apos;)]/@href</string>
+		<key>nextPageXpath-orig</key>
+		<string>//a[starts-with(text(), &apos;Next&apos;) or starts-with(text(), &apos;next&apos;) or contains(text(), &apos;Older Posts&apos;) or contains(text(), &apos;Older Entries&apos;)]/@href</string>
+	</dict>
+	<key>overrides</key>
+	<dict>
+		<key>othersite.com</key>
+		<dict/>
+		<key>peopleofwalmart.com</key>
+		<dict>
+			<key>nextPageXpath</key>
+			<string>//a/strong[starts-with(translate(., &apos;NEXT&apos;, &apos;next&apos;), &apos;next&apos;) or contains(., &apos;Older Posts&apos;) or contains(., &apos;Older Entries&apos;)]/@href</string>
+			<key>sitemap</key>
+			<dict>
+				<key>http://peopleofwalmart.com</key>
+				<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+				<key>http://peopleofwalmart.com/</key>
+				<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+				<key>http://www.peopleofwalmart.com</key>
+				<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+				<key>http://www.peopleofwalmart.com/</key>
+				<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>sitemap</key>
+	<dict>
+		<key>http://peopleofwalmart.com</key>
+		<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+		<key>http://peopleofwalmart.com/</key>
+		<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+		<key>http://www.peopleofwalmart.com</key>
+		<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+		<key>http://www.peopleofwalmart.com/</key>
+		<string>http://www.peopleofwalmart.com/?page_id=9798</string>
+	</dict>
+	<key>version</key>
+	<string>1.0</string>
+	<key>debug</key>
+	<true/>
+</dict>
+</plist>

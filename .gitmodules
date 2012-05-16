@@ -6,4 +6,4 @@
 	url = git://github.com/gabriel/gh-unit.git
 [submodule "external/fringe-tools"]
 	path = external/fringe-tools
-	url = git@github.com:jsheets/fringe-tools.git
+	url = git://github.com/jsheets/fringe-tools.git
